@@ -1,7 +1,5 @@
 # 【修订ing】爱的证明：治理 AI 和人类文明的共识机制
 
-<center><span style="font-size: 22px; font-weight: bold;">🎉爱的证明：治理 AI 和人类文明的共识机制</span></center>
-
 <center>作者：Derek.DAism（周朝晖）*<sup>1,2</sup>、Aranna Dang（邓雯慧）*<sup>1,3</sup></center>
 
 <sub>1 DAism (daism.io)</sub>  
