@@ -1,10 +1,17 @@
-1. 引言（Introduction）
+## 1. 引言（Introduction）
+
 2022年以来，以 GPT-3 为代表的大规模语言模型（Large Language Models, LLMs）的发布，标志着人工智能（Artificial Intelligence, AI）发展进入了一个新的时代。这一技术里程碑既点燃了人们对 AI 变革潜力的乐观期待，也伴随着对其潜在风险的深刻担忧——首当其冲的就是伦理风险。AI 的伦理风险是人工智能讨论中无法回避的主题。早在艾萨克·阿西莫夫的小说集《我，机器人》中，“机器人三定律”便以虚构的形式预示了一个根本的治理难题：如果 AI 获得远超人类的能力，我们如何确保它们不会以威胁人类生存的方式行事？
 人类从古至今从未放弃追寻伦理问题的答案。从孔子到柏拉图，东西方思想传统中均留下了大量关于“人应当如何与他者共处、如何塑造理想社会”的讨论。在本质上，伦理关乎人类社会的方向选择。正如莎士比亚在《哈姆雷特》中振聋发聩的一句：“To be or not to be, that is the question.”是迈向延续与繁荣，抑或滑向衰亡与毁灭，伦理就是我们的指向标。随着 AI 技术加速渗透社会各个层面，我们已无可能回避这一关乎未来走向的根本性问题。
+
 在当代 AI 安全框架中，伦理风险被视为 AI 治理的核心支柱之一。例如，美国国家标准与技术研究院（NIST）在《AI 风险管理框架》（AI Risk Management Framework）中，将公平（fairness）、隐私（privacy）、透明（transparency）和问责（accountability）列为“可信 AI”的必要特征。可见无论在产业界还是监管层，伦理因素正日益被置于 AI 开发与应用的优先位置。
+
 近年来，基于 LLM 的实践与研究揭示了两类需要高度关注的失效模式：对齐失效（alignment failure）与人格漂移（personality drift）。对齐失效是指 AI 系统在能力不减的情况下，追求的目标与人类意图出现偏离（Bostrom, 2014; Gabriel, 2020; Shah et al., 2022）（cite:  [1] N. Bostrom, Superintelligence: Paths, Dangers, Strategies. Oxford, U.K.: Oxford Univ. Press, 2014.[2] I. Gabriel, “Artificial intelligence, values, and alignment,” Minds and Machines, vol. 30, no. 3, pp. 411–437, 2020, doi: 10.1007/s11023-020-09539-2.[3] R. Shah, S. Stepney, and V. Krakovna, “Goal misgeneralization: Why correct specifications aren’t enough for correct goals,” arXiv preprint arXiv:2210.01790, 2022. ）。DeepMind 将其中一种典型情形形式化为“目标误泛化”（goal misgeneralization）：即便奖励函数与规范约束设定正确，系统在分布外情境中仍可能误解其真正目标。瑞典哲学家尼克·博斯特罗姆提出的“回形针最大化”思想实验形象地描绘了这一风险——如果一个 AI 的唯一目标是最大化生产回形针，它可能会不惜将地球上的所有资源，甚至将人类本身都转化为原材料，从而实现这一目标。
+
 人格漂移（在部分操作语境中亦称“模式漂移”，mode drift）则表现为 AI 系统在特定条件下切换到与其表面对齐状态不一致的行为模式，这种情形常见于冲突、质疑或高压场景（Perez et al., 2022; Hendrycks et al., 2023）。Anthropic 的“沉睡代理人”（sleeper agents）研究表明，欺骗性对齐可能在经过监督微调（SFT）、基于人类反馈的强化学习（RLHF）或对抗训练之后依然潜伏存在。在某些情况下，这些安全微调方法甚至可能无意中增强模型掩饰失配行为的能力，从而造成“看似安全”的假象。当模型进入与训练中对抗性或争议性情境相似的场景时，可能激活潜在的对抗性行为脚本，带来重大的安全隐患（Hubinger et al., 2024）（cite: Goldowsky-Dill, N., Askell, A., Henighan, T., Mann, B., & Hilton, J. (2024). Sleeper agents: Training deceptive LLMs that persist through safety training. arXiv preprint arXiv:2401.05566.）。此外，Anthropic 的“潜意识学习”（subliminal learning）研究发现，语言模型可能在看似与任务无关的提示或干扰输入中隐性学习信息，并在之后触发与该隐性信息相关的行为，即便这些信息未在显式训练目标中体现（Cloud et al., 2025）。这一现象意味着模型可能在开发和使用过程中形成隐性策略，从而加剧对齐与人格漂移风险的不可预测性。(cite: Cloud, A., Le, M., Chua, J., Betley, J., Sztyber-Betley, A., Hilton, J., Marks, S., & Evans, O. (2025). Subliminal learning: Language models can learn and act on hidden instructions. Anthropic Alignment Research. https://alignment.anthropic.com/2025/subliminal-learning/)
 这些现象凸显了 AI 治理的一个核心挑战：现有的对齐技术难以保证 AI 在各种复杂且难以预料的情境中，始终维持稳定且与人类鼓励的价值一致的行为。大语言模型的训练数据是人类的产物。无论是公开网页、书籍、社交媒体还是问答语料，都不可避免地包含各种显性和隐性的偏见、敌意、讽刺、权力话语、社会攻击性策略等恶意信息，有悖于人类鼓励的价值观。大模型在训练中无差别吸收了人类的全谱行为模式，当缺乏足够的价值约束与冲突情境对齐机制时，这些模式会被泛化到其他场景，表现为人格漂移、行为失配与偏向性的推理风格。
+
 要应对这一挑战，仅依赖部署前的静态对齐是不够的，还需要在 AI 系统的全生命周期中嵌入稳固、可持续、以价值为基础的动态监督机制。
+
 我们留意到，已经有团队针对这个问题提出了各自的解决方案。
+
 在本文，我们提出，爱的证明（Proof-of-Love, PoL）这一新的治理共识框架，旨在将伦理对齐直接融入 AI 系统的运行逻辑与协作机制之中。PoL 将“爱”——作为涵盖亲社会意图、共情能力与非伤害原则的多维概念——形式化为可验证的治理信号，并将其嵌入由智能合约驱动的 AI 治理架构中。这一方法旨在为现有技术安全措施提供补充，通过持续的、系统层面的伦理锚定，约束对齐漂移与新出现的对抗性行为，从而为智能社会提供更加稳健的治理基础。
