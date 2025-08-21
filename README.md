@@ -9,9 +9,12 @@
 
 <sup>1</sup>DAism (daism.io), <sup>2</sup>0xDD@daism.io, <sup>3</sup>0xAranna0572@daism.io
 
-## 概要
-（待补充）
+## 摘要（Abstract）
+[摘要](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/intro.md)
 
+### 关键词
+
+Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence （人工智能伦理）；Proof-of-Love (PoL) （爱的证明）；Decentralized Governance （去中心化治理）；Blockchain and Smart Contracts （区块链与智能合约）；Public Goods and Smart Commons （公共物品与智能公器）；Value Alignment （价值对齐）
 
 ## 因内容太长建议分节浏览
 [1. 引言](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/intro.md)
