@@ -24,10 +24,17 @@
 基于此，在本文中我们提出 爱的证明（Proof-of-Love, PoL） 这一全新的治理共识框架，旨在将“伦理对齐”直接内嵌于 AI 系统的运行逻辑与协作机制之中。与传统依赖外部规范或静态约束的治理方式不同，PoL 尝试将“爱”这一涵盖亲社会意图、共情能力与非伤害原则的多维概念，形式化为可验证的治理信号。这一治理信号不仅是价值观的宣告，更是可以通过智能合约、去中心化验证机制与跨主体共识流程加以确认与执行的制度性约束。PoL 不仅仅是一种哲学上的“价值宣言”，而是一个试图在技术层面落地的治理工具。它补充了现有技术安全措施（如红队测试、形式化验证、可解释性建模等）的不足，提供了一种面向文明未来的、动态的伦理保障。换言之，PoL 的提出标志着一个新的尝试：让“爱”从古今哲学与宗教的道德理念，转化为未来社会可操作、可验证、可持续的治理共识。
 
 *参考文献*
+
 1.Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.
+
 2.Gabriel, I. (2020). Artificial intelligence, values, and alignment. Minds and Machines, 30(3), 411–437. https://doi.org/10.1007/s11023-020-09539-2
+
 3.Shah, R., Stepney, S., & Krakovna, V. (2022). Goal misgeneralization: Why correct specifications aren’t enough for correct goals. arXiv preprint. arXiv:2210.01790.
+
 4.Goldowsky-Dill, N., Askell, A., Henighan, T., Mann, B., & Hilton, J. (2024). Sleeper agents: Training deceptive LLMs that persist through safety training. arXiv preprint. arXiv:2401.05566.
+
 5.Cloud, A., Le, M., Chua, J., Betley, J., Sztyber-Betley, A., Hilton, J., Marks, S., & Evans, O. (2025). Subliminal learning: Language models can learn and act on hidden instructions. Anthropic Alignment Research. https://alignment.anthropic.com/2025/subliminal-learning/
+
 6.Casper, S., Davies, X., Griffin, C., Sharma, M., Hatfield-Dodds, Z., Lindner, D., … Shah, R. (2023). Open problems in AI X-risk. arXiv preprint. arXiv:2302.09248. https://arxiv.org/abs/2302.09248
+
 7.Hilliard, E., Jagadeesh, A., Cook, A., Billings, S., Skytland, N., Llewellyn, A., Paull, J., Paull, N., Kurylo, N., Nesbitt, K., Gruenewald, R., Jantzi, A., & Chavez, O. (2025). Measuring AI alignment with human flourishing [Technical Report]. arXiv. https://doi.org/10.48550/arXiv.2507.07787
