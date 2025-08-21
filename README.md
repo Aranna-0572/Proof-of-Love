@@ -29,7 +29,7 @@ Proof-of-Love（爱的证明）；LLMs （大语言模型）；Artificial Intell
 [2. 人类文明的伦理核心：爱](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/civil-love.md)
 
 
-*——详细版本——*
+*——原来版本——*
 
 [一、爱、恨、文明、野蛮](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec1.md)
 
