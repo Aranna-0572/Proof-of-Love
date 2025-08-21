@@ -6,6 +6,6 @@
 
 PoL 的提出标志着一种跨越技术、制度与伦理的综合治理范式的探索。它不仅弥补了现有对齐方法的不足，也为 AI 与人类社会的共存提供了新的理论与实践基础。我们认为，PoL 不仅为人工智能安全提供持续的价值锚点，更为人类迈向以“爱”为核心的富爱文明开辟了一条可能的路径。
 
-##【关键词】
+### 【关键词】
 
 Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence （人工智能伦理）；Proof-of-Love (PoL) （爱的证明）；Decentralized Governance （去中心化治理）；Blockchain and Smart Contracts （区块链与智能合约）；Public Goods and Smart Commons （公共物品与智能公器）；Value Alignment （价值对齐）
