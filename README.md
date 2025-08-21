@@ -23,6 +23,8 @@ Proof-of-Love（爱的证明）；LLMs （大语言模型）；Artificial Intell
 ## 因内容太长建议分节浏览
 [1. 引言](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/intro.md)
 
+[2. 人类文明的伦理核心：爱](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/civil-love.md)
+
 [一、爱、恨、文明、野蛮](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec1.md)
 
 [二、爱的三重本质：智慧、情感体验与行为表现的综合分析](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec2.md)
