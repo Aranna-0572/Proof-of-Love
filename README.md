@@ -21,9 +21,14 @@ PoL 展示了一种跨越技术、制度与伦理的综合治理范式，为 AI 
 Proof-of-Love（爱的证明）；LLMs （大语言模型）；Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence（人工智能伦理）；Civilization（文明）；Decentralized Governance（去中心化治理）；Blockchain and Smart Contracts（区块链与智能合约）；Value Alignment（价值对齐）
 
 ## 因内容太长建议分节浏览
+
+*精简版本*
+
 [1. 引言](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/intro.md)
 
 [2. 人类文明的伦理核心：爱](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/civil-love.md)
+
+*详细版本*
 
 [一、爱、恨、文明、野蛮](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec1.md)
 
