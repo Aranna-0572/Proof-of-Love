@@ -18,7 +18,7 @@ PoL 的提出标志着一种跨越技术、制度与伦理的综合治理范式�
 
 ### 【关键词】(Keywords)
 
-Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence （人工智能伦理）；Proof-of-Love (PoL) （爱的证明）；Decentralized Governance （去中心化治理）；Blockchain and Smart Contracts （区块链与智能合约）；Public Goods and Smart Commons （公共物品与智能公器）；Value Alignment （价值对齐）
+Proof-of-Love (PoL)（爱的证明）；LLM （大语言模型）；Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence（人工智能伦理）；Civilization（文明）；Decentralized Governance（去中心化治理）；Blockchain and Smart Contracts（区块链与智能合约）；Value Alignment（价值对齐）
 
 ## 因内容太长建议分节浏览
 [1. 引言](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/intro.md)
@@ -45,8 +45,3 @@ Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence �
 
 ## 全文
 [深吸一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
-
-## 关键词
-爱的证明, 共识, 大语言模型, AI, 文明, 治理
-
-Proof-of-Love, Consensus, LLM, AI, Civilization, governance, 
