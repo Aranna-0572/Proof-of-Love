@@ -1,3 +1,6 @@
+# Proof of Love: The Consensus of AI and Next Civilization
+
+
 # 爱的证明：治理 AI 和人类文明的共识机制
 
 <center>[v1.0b] Thu, 7 Aug 2025 23:16 UTC+08:00</center>
