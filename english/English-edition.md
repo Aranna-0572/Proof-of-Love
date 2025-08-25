@@ -8,5 +8,4 @@
 
 # Abstract
 
-# 1. Love, Hate, Civilization and Barbarism
-[1. Love, Hate, Civilization and Barbarism](https://github.com/Aranna-0572/Proof-of-Love/blob/main/english/chap1.md)
+# [1. Love, Hate, Civilization and Barbarism](https://github.com/Aranna-0572/Proof-of-Love/blob/main/english/chap1.md)
