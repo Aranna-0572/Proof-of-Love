@@ -20,4 +20,6 @@ Proof-of-Love; LLMs; Artificial Intelligence; Ethics of Artificial Intelligence;
 
 # [1. Love, Hate, Civilization and Barbarism](https://github.com/Aranna-0572/Proof-of-Love/blob/main/english/chap1.md)
 
-# [2. The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression](https://github.com/Aranna-0572/Proof-of-Love/blob/main/english/chap2.md))
+# [2. The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression](https://github.com/Aranna-0572/Proof-of-Love/blob/main/english/chap2.md)
+
+# [3. ](https://github.com/Aranna-0572/Proof-of-Love/tree/main/english)
