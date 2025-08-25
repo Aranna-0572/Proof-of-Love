@@ -27,7 +27,7 @@ Most importantly, if hatred is the devil in everyone’s heart, then love is the
 
 - Source of Wisdom: Love originates from wisdom—it is the consensus interface, connective mechanism, and management logic produced during the evolution of intelligence. It enables living beings to allocate resources reasonably, coordinate relationships, and secure safety and happiness in complex environments.
 
-- Trinity of Mind: Love is the unity of wisdom, emotion, and behavior.
+- The Trinity: Love is the unity of wisdom, emotion, and behavior.
 
 - Essence of Life: Love arises from a profound self-understanding of life itself. It is the inevitable choice of both individuals and groups in the pursuit of self-knowledge and self-realization.
 
@@ -47,7 +47,7 @@ As Hanno Sauer writes in the preface to *The Invention of Good and Evil* (Die Er
 
 This awakens us: from Aristotle to Kant, from Confucius to Nietzsche, ethics has always attempted to answer the fundamental question: “How should one live?” Although in the gestures of early humans sharing berries by the campfire we can already find the most genuine ethical answers, throughout the long history of labor civilizations, ruling elites often molded morality into a tool to preserve hierarchy and enforce obedience. Morality came to mean repression, confinement, and sacrifice—equated with inquisitorial judgment, self-torment in confession, the shackles of chastity, and countless rules of prohibition. This system of morality ensured social stability at the cost of individual freedom and uniqueness.
 
-For example, agrarian civilizations cast this contract into chains of hierarchy with bronze ploughshares. When the Code of Hammurabi inscribed “an eye for an eye” onto clay tablets, when Confucian ritual ethics elevated “restraining one’s desires and returning to propriety” into a moral imperative, humans unknowingly transformed ethics into an instrument of control. As Foucault reveals in Discipline and Punish, morality evolved into invisible chains disciplining the body, while the Dalit “purity rules” of the Indian caste system carried this alienation to absurd extremes.
+For example, agrarian civilizations cast this contract into fetters of hierarchy with bronze ploughshares. When the Code of Hammurabi inscribed “an eye for an eye” onto clay tablets, when Confucian ritual ethics elevated “restraining one’s desires and returning to propriety” into a moral imperative, humans unknowingly transformed ethics into an instrument of control. As Foucault reveals in Discipline and Punish, morality evolved into invisible chains disciplining the body, while the Dalit “purity rules” of the Indian caste system carried this alienation to absurd extremes.
 
 Yet if we return to the origin of ethics, its core concerns remain unchanged:
 
