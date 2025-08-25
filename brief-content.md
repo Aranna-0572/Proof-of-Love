@@ -21,6 +21,8 @@ Proof-of-Love（爱的证明）；LLMs （大语言模型）；Artificial Intell
 
 [1. 引言](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/intro.md)
 
-[2. 人类文明的伦理核心：爱](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/civil-love.md)
+[2. 研究背景](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/civil-love.md)
 
-[3. ](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/power-hatred.md)
+[3. 理论基础](https://github.com/Aranna-0572/Proof-of-Love/blob/main/chinese/power-hatred.md)
+
+[4. 方法论框架]
