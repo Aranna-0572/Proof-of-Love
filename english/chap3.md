@@ -131,3 +131,93 @@ Legal and Institutional Power Structures:
 - Regulatory and compliance systems (licensing, censorship, sanctions).
 
 These structures intersect to form a multi-dimensional domination network linking ruling elites, privileged classes, and vested interests into an entrenched alliance. Thus, any discussion of human governance must necessarily address domination and power in depth.
+
+## 3.2 Theoretical Foundations of Power and Oppression
+### 3.2.1 Critical Theory: Systemic, Disciplinary, and Ideological Dimensions of Power
+
+Critical theory, originating from the Frankfurt School, is a current of social, historical, and political thought whose core lies in analyzing and challenging systemic power relations in society. Unlike traditional social theory, which aims to describe and understand society, critical theory explicitly seeks to critique and transform it, emphasizing the unity of theory and praxis. It maintains that knowledge, truth, and social structures are fundamentally shaped by the dynamics between ruling and oppressed groups.
+
+Modern critical theory goes beyond Marxism’s purely economic analysis by incorporating and reworking Freudian concepts and postmodernist perspectives to examine broader cultural and social structures of power. Its goal is to “liberate human beings from the circumstances that enslave them,” often achieved through “immanent critique” of a society’s own proclaimed values. Paulo Freire’s Pedagogy of the Oppressed is a seminal contribution, framing the classroom as a microcosm of society that reflects the dialectical relationship between oppressors and the oppressed, thereby offering practical routes for social critique.
+
+This transition from purely economic analysis to cultural and psychological examination highlights that domination is no longer limited to material control but extends into the manipulation of desires, cognition, and identity. If domination is a form of “primordial barbarism,” then its manifestations are not only naked coercion or economic compulsion but also subtle, pervasive forms of enslavement. This expanded definition of barbarism encompasses the systematic dehumanization of individuals through cultural and psychological means and the erosion of autonomy—domination as control of the human subject itself, not merely the body.
+
+### 3.2.2 Marxist Perspectives: Exploitation, Alienation, and Class Domination
+
+From a Marxist standpoint, social power and coercion are exercised through economic exploitation. Workers are exploited because they cannot retain or control the full value of their labor, while capitalists appropriate the surplus. The inherently exploitative nature of capitalism implies that nearly every exchange carries the potential for exploitation.
+
+In this process, poverty is not naturally occurring but is “first manufactured by the capitalist system, and only later addressed as a problem to be solved.” Redistribution by the state is thus a secondary remedy imposed upon primary inequality created by initial distribution. This institutionalized exploitation forms the essence of capitalist economic relations.
+
+Alienation (Entfremdung) and reification are key concepts in critical theory, rooted in Marxist analysis.
+
+“The relation of the worker to the product of his labor is as to an alien object… The more the worker expends himself in labor, the more powerful becomes the alien world of objects he creates against himself, the poorer he becomes in his inner life, and the less he belongs to himself.”
+
+Here Marx reveals how human “species-being” is alienated into independent capital that, once crystallized, dominates the very individuals who created it. Alienation manifests as loss of confidence in one’s environment and in oneself, leading to profound loneliness and despair. Its expressions include powerlessness (lack of control over working conditions), meaninglessness (disconnection from larger purposes), isolation (absence of belonging), and self-alienation (discontent with one’s own work).
+
+Reification transforms social relations into relations between things, reducing individuals to mere “cogs in the machine.” For the bourgeoisie, alienation is perversely experienced as confirmation of their own power; they embrace alienation as strength, while simultaneously intensifying their cruelty toward workers.
+
+Marxist state theory holds that the state is a machine for maintaining class domination: an organization of the ruling class endowed with the strongest instruments of repression and coercion. In capitalism, the state is structured to uphold capitalist institutions and ensure the dictatorship of a minority of capitalists through both violent and ideological apparatuses.
+
+The Marxist concept of reification—social relations treated as relations between objects—combined with the idea of objectified labor becoming a dominating force, reveals the subtle but profound instrumentality inherent in capitalist structures. Human agency paradoxically creates alienated powers (capital/objectified labor) that turn back upon their creators, exploiting and ruling them. This “systemic instrumentalization” extends beyond interpersonal exploitation to the very level of social structure, reducing individuals to components within an impersonal economic machine. This, too, is a form of barbarism.
+
+### 3.2.3 Foucauldian Insights: Power Beyond the State, Normalization, and Biopower
+
+Michel Foucault rejected the notion that power resides solely in the state, arguing instead that power has a broader, more diffuse basis, embedded in complex networks of relationships between individuals. The modern state, in his view, is a sophisticated structure that integrates individuals into its order by conditioning them to adopt certain patterns and forms of individuality, thereby exercising control over them.
+
+Foucault distinguished between sovereign power (judicial, prohibitive—the “sword of sovereignty”) and disciplinary power. Disciplinary power is a productive force that operates through normalization, prescribing possible actions for subjects, rewarding conformity, and punishing deviation. Punishment shifts from revealing truth to producing docile, rule-following subjects.
+
+This new power form, biopower, is productive and life-oriented, managing populations in ways essential to capitalism, since it aligns human life with economic processes.
+
+Foucault also emphasized: “Where there is power, there is resistance.” Power does not act upon inert bodies; subjects respond and transform commands in multiple ways. Power binds subjects to their identities, making them internalize norms as if they were their own, so that they become simultaneously the targets and carriers of power.
+
+The distinction between sovereign and disciplinary power reveals that modern domination is not crude repression but subtle, internalized control—shaping identity and behavior, making resistance far more difficult. This represents a more insidious form of barbarism, one that hijacks freedom itself to create self-replicating mechanisms of domination. Individuals reproduce the very norms that enslave them, even under the illusion of being “free.”
+
+### 3.2.4 Power, Privilege, and Oppression in Social Structures
+
+Power is the capacity to influence others and make decisions. Privilege refers to unearned advantages conferred by membership in a dominant group. Oppression is power exercised over time in ways that systematically disadvantage another group. Even when interpersonal relations seem harmonious, structural disadvantage persists because it is sustained by institutions—policies, governments, educational systems, healthcare—and reinforced by social norms.
+
+Inequitable distribution of power produces discrimination and injustice, rooted both in individual prejudice and in systemic bias. These unjust systems span contexts from corporate boardrooms to university admissions, consistently reproducing hierarchical and elitist outcomes.
+
+Social Dominance Theory explains how stable societies form hierarchies along axes such as race, gender, religion, and class, wherein dominant groups enjoy privilege while subordinate groups endure disadvantage. These hierarchies are sustained not by constant coercion but by “legitimizing myths”—widely accepted cultural ideologies that naturalize inequality.
+
+Such myths reveal that power structures not only impose disadvantage but normalize and rationalize it through broadly accepted yet rarely scrutinized beliefs. This links directly to concepts of false consciousness and epistemic ideology. Legitimizing myths are cultural ideologies based on stereotypes—overgeneralized beliefs about particular groups—that are then used to justify domination in seemingly “culturally acceptable” ways.
+
+False consciousness describes how dominant institutions disseminate “counterfactual but normative assumptions and rituals” that make exploitation less visible or more palatable. Epistemic ideology refers to flawed cultural systems of understanding that empower elites.
+
+The causal chain is clear: dominant groups create and propagate these myths/ideologies, which then solidify into “common sense.” This ideological manipulation constitutes a profound form of “primordial barbarism,” because it undermines critical thought and collective resistance, perpetuating oppression without overt coercion.
+
+## 3.3 The Origins of Hatred in Power Structures
+### 3.3.1 Mechanisms by Which Power Imbalances Breed Hostility and Conflict
+
+Hatred, fear, and contempt are the emotions that drive conflict participants toward violence; they replace reason with fictitious notions of the “dangerous Other.” Hatred is a deep and extreme emotional aversion, typically associated with hostility toward its target, and can escalate to violent acts such as murder and war.
+
+The exercise of power can induce, motivate, entice, coerce, or overwhelm conflict participants. This form of “emotional power” reflects the integration of power dynamics and emotional life, manifested in public performances of gathering, debating, deliberating, cheering, jeering, or even fighting. Over time, repeated exposure to such power can “train” or “condition” individuals to respond in specific ways.
+
+Emotional power—defined as the integration of power dynamics with emotional life—shows that hatred is not merely an individual feeling but also a form of social engineering employed by ruling powers to mobilize conflict participants and control target populations, making it a direct tool of barbarism. Emotional power has been defined as a “socio-psychological force that interacts with conflict dynamics” and can “induce, motivate, entice, coerce, or overwhelm conflict participants.” A particularly insidious form of this power is state-driven campaigns aimed at controlling the thoughts and lives of targeted groups by instilling a sense of inferiority.
+
+This establishes a direct causal chain: power structures actively cultivate and exploit emotions such as hatred, transforming them from private feelings into collective destructive forces. The systematic manipulation of emotions for the purposes of control and violence is a clear expression of “primordial barbarism,” revealing that hatred is not simply a spontaneous eruption but a deliberate product of domination.
+
+### 3.3.2 Psychological Dimension: Devaluing Victims and Instilling Inferiority
+
+Hatred rests on a complex mix of cognition and emotion. Its cognitive component involves devaluing the “Other” and perceiving them as a threat. Hate-based violence is driven by persistent, negative cognitions toward the “Other” and the intent to harm or destroy them.
+
+Systematic humiliation is a key mechanism of state power, exploiting the psychology of targeted groups by inducing “toxic self-deprecation” to erode self-esteem. This works by fabricating images of incompetence or worthlessness, generating both external and internalized devaluation, making these groups less likely to resist authority.
+
+As hatred grows, targets are stripped of moral or human consideration, creating a sense of legitimacy for action—even annihilation—against them. This process erodes empathy.
+
+The twin mechanisms of victim devaluation and systematic humiliation through instilled inferiority represent a form of psychological warfare deployed by power structures. Dehumanization erodes empathy and legitimizes violence, directly enabling barbarism by dismantling moral restraints. Hatred, characterized by “an increasing need to devalue victims,” inevitably “reduces empathy.” Meanwhile, systematic humiliation as a form of state power instills “toxic self-deprecation” that weakens targets’ self-esteem and makes them “less likely to complain, obstruct, resist, or rebel against authority.”
+
+The logical implication is that by systematically stripping individuals or groups of basic humanity and value, ruling powers eliminate moral and psychological barriers to harm. Hatred then becomes the justification—“the reason to act, even to annihilate the hated Other.” This reveals the direct and sinister causal pathway from power-induced psychological manipulation to violence and barbaric behavior, showing how domination actively cultivates the conditions for hatred and cruelty.
+
+### 3.3.3 Social Dominance Orientation (SDO) and Its Association with Reduced Empathy Toward Outgroups
+
+Social Dominance Orientation (SDO) measures an individual’s preference for and endorsement of group-based social hierarchies and inequality. It is associated with competitive worldviews and heightened prejudicial attitudes.
+
+High levels of SDO are consistently correlated with lower empathy and higher “counter-empathy” (taking pleasure in others’ suffering, or schadenfreude). This reduction in empathy is most pronounced toward outgroup members, especially under competitive or threatening intergroup conditions.
+
+Importantly, efforts toward social equality and inclusion can paradoxically amplify the effects of authoritarianism (closely related to SDO) on prejudice, as authoritarians perceive such equality as a “situational threat.”
+
+That SDO can reinforce prejudice even in egalitarian contexts demonstrates that the drive for domination actively undermines attempts to build a more equal society. Progress toward equality is reinterpreted as a threat to hierarchical preferences, triggering intensified prejudice and hatred. Research shows that “social equality and inclusion strengthen the impact of authoritarianism on prejudice. These results suggest that equality functions as a situational threat, catalyzing ‘authoritarian dynamics’ rather than being embraced as a norm by authoritarians.”
+
+This reveals a profound causal mechanism: dominance-oriented individuals not only thrive under systems of inequality but also actively resist and distort egalitarian efforts. When confronted with conditions that challenge hierarchical preferences, they may respond with heightened prejudice and hatred, perceiving inclusionary measures as existential threats to their status. This illustrates how domination perpetuates “primordial barbarism,” converting positive social progress into triggers for conflict and hostility.
+
+Table 1. Typology of Mechanisms by Which Power Induces Hatred
