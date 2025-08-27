@@ -9,11 +9,11 @@ It is worth emphasizing that the “beauty” of love is reflected not only in i
 ## 2.1 Sociological Definitions: Social Construction and Social Power
 #### 2.1.1 The Wisdom Dimension of Love: Social Construction and Rational Management
 
-Love, as a profound human experience, is not merely an instinctive emotional outburst or a biologically driven impulse. Rather, it is the crystallization of human wisdom, shaped and sustained through social construction and rational management. Sociological studies emphasize that love is a socially constructed entity—its meaning, expressions, and social functions evolve over time and are acquired through processes of social interaction. We are not born knowing how to love; instead, we learn “to love properly” through environments, personal experiences, and social exemplars such as parents.
+Love, as a profound human experience, is not merely an instinctive emotional outburst or a biologically driven impulse. Rather, it is the crystallization of human wisdom, shaped and sustained through social construction and rational management. Sociological studies emphasize that love is a socially constructed entity—its meaning, expressions, and social functions evolve over time and are acquired through processes of social interaction<sup>2</sup>. We are not born knowing how to love; instead, we learn “to love properly” through environments, personal experiences, and social exemplars such as parents<sup>2</sup>.
 
-This learning and construction of love is itself a manifestation of human wisdom. Love exists as a social form realized through knowledge and communication. Different forms of love—romantic love, friendship, parental love—are continually reshaped in modern societies under the influence of social expectations. This means that individuals rely on “knowledge of love” to interpret and respond to others in interpersonal interactions.
+This learning and construction of love is itself a manifestation of human wisdom. Love exists as a social form realized through knowledge and communication<sup>2</sup>. Different forms of love—romantic love, friendship, parental love—are continually reshaped in modern societies under the influence of social expectations. This means that individuals rely on “knowledge of love” to interpret and respond to others in interpersonal interactions<sup>2</sup>.
 
-From a philosophical perspective, love is not only a passion but also a “rationally induced affection,” cultivated through rational inquiry and intellectual reflection. This rational pursuit of love is deeply bound to wisdom. Love enhances self-knowledge, as the beloved can serve as a “mirror” reflecting one’s character, thereby contributing to moral development. Virtue ethics likewise emphasizes the cultivation of character and virtues, with love—especially in its altruistic and compassionate form (Agape)—resonating with virtues such as kindness and compassion. The cultivation of such virtues is inseparable from the guidance of wisdom. Hence, love is not merely an emotional experience or a behavioral manifestation but a product of human wisdom in understanding, shaping, and managing relationships and social bonds, guiding us toward both individual and collective flourishing.
+From a philosophical perspective, love is not only a passion but also a “rationally induced affection,” cultivated through rational inquiry and intellectual reflection. This rational pursuit of love is deeply bound to wisdom<sup>19</sup>. Love enhances self-knowledge, as the beloved can serve as a “mirror” reflecting one’s character, thereby contributing to moral development<sup>16</sup>. Virtue ethics likewise emphasizes the cultivation of character and virtues, with love—especially in its altruistic and compassionate form (Agape)—resonating with virtues such as kindness and compassion. The cultivation of such virtues is inseparable from the guidance of wisdom<sup>18</sup>. Hence, love is not merely an emotional experience or a behavioral manifestation but a product of human wisdom in understanding, shaping, and managing relationships and social bonds, guiding us toward both individual and collective flourishing.
 
 A striking example that love is a crystallization of wisdom is the parallel growth between human intellectual breakthroughs and advancements in the expression and practice of love.
 
@@ -29,25 +29,37 @@ For instance, humanity’s development of language is unique among animals. At t
 
 2) Subtle Emotional Nuances
 
-- Terms like “yearning,” “pity,” or “lingering attachment” capture subtle emotional textures beyond “liking” or “love.”
+- Capturing delicate emotions: People have created words such as “pity”, “throbbing”, and “melancholy” to clearly articulate the subtle nuances of love—such as a quickened heartbeat, lingering attachment, and constant longing—thus transcending the simplicity of just saying “like” or “love.”
 
-- Metaphors and imagery—“you are the North Star of my life”—lend poetic resonance.
+- Metaphor and imagery: Representative expressions like “You are the North Star of my life” or “My thoughts are like autumn waters, stirred into ripples only because of you” show how emotion, conveyed through imagery or natural scenery, becomes not only poetic but also resonant.
 
 3) Rhetorical Innovations
 
-- Parallelism: e.g., “May all your sights be filled with joy; may all those you care for be safe and well.”
+- Parallelism and antithesis: For example, “May everywhere your eyes rest be filled with joy; may everyone you think of be safe and well.” Such rhetorical structures lend language a rhythmic beauty and a sense of solemnity.
 
-- Repetition: e.g., “Love you, love you, until the end of time.”
+- Repetition and reduplication:For instance, “Love you, love you, until the end of time” or “Day and night, night and day.” These reinforce the depth and eternity of emotion.
 
-- Neologisms and Internet slang: bae (“before anyone else”), ship, OTP (“one true pairing”), ILY, XOXO, as well as Chinese neologisms like “撒糖症” (sugar shower syndrome).
+- New terms and internet buzzwords (global examples):
+
+- “bae” (short for Before Anyone Else, used to mean “baby” or “darling”)
+
+- “ship” / “shipper” (to support or pair a couple, e.g., “I totally ship you two”)
+
+- “OTP” (One True Pairing, referring to the most ideal couple)
+
+- “ILY” (a shorthand for I Love You)
+
+- “XOXO” (signifying hugs and kisses, common in Anglo-American letters and online communication)
+
+Among young generations in China, expressions have emerged such as “light-year romance” (光年热恋), “sugar-spreading syndrome” (撒糖症), “sweetness overload” (甜度爆表), “I’m shipping it hard” (磕到了), and “heart-core” (心巴). These culturally time-stamped phrases bring love into rhythm with the pulse of contemporary life.
 
 4) Expansion of Genres and Contexts
 
-- Love letters and literature (Anna Karenina, Pride and Prejudice, Love in a Fallen City).
+- Love Letters and Literary Works: From classical correspondence to modern novels, literature has always provided the most tender narrative space for love. Works such as Tolstoy’s Anna Karenina, Jane Austen’s Pride and Prejudice, and Eileen Chang’s Love in a Fallen City use language to portray the lingering, intricate, and subtle textures of love.
 
-- Lyrics and poetry (“I will always love you”; “Across a thousand mountains, love remains”).
+- Lyrics and Poetry: When language meets melody, emotions transcend words to reach directly into the heart. Classic lines such as “I will always love you” or “Across a thousand mountains and rivers, love endures” have become cross-cultural symbols of romantic resonance.
 
-- Film and media dialogues (e.g., Before Sunrise’s midnight conversation, Love Letter’s simple “Are you well?”).
+- Film, Television, and Visual Media: Audiovisual mediums serve as the grand compendium of modern language. Dialogue, narration, subtitles, and the unfolding of plot transform love on screen into moments that extend into real life. The late-night conversations in Before Sunrise or the echo of “How are you?” in Love Letter are quintessential moments where language and imagery jointly craft the classics of love.
 
 - Social media declarations (#relationshipgoals, #LoveWins) amplify love’s expression into a global resonance.
 
