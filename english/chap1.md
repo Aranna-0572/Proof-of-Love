@@ -37,7 +37,7 @@ As Hanno Sauer writes in the preface to *The Invention of Good and Evil* (Die Er
 
 This awakens us: from Aristotle to Kant, from Confucius to Nietzsche, ethics has always attempted to answer the fundamental question: “How should one live?” Although in the gestures of early humans sharing berries by the campfire we can already find the most genuine ethical answers, throughout the long history of labor civilizations, ruling elites often molded morality into a tool to preserve hierarchy and enforce obedience. Morality came to mean repression, confinement, and sacrifice—equated with inquisitorial judgment, self-torment in confession, the shackles of chastity, and countless rules of prohibition. This system of morality ensured social stability at the cost of individual freedom and uniqueness.
 
-For example, agrarian civilizations cast this contract into fetters of hierarchy with bronze ploughshares. When the Code of Hammurabi inscribed “an eye for an eye” onto clay tablets, when Confucian ritual ethics elevated “restraining one’s desires and returning to propriety” into a moral imperative, humans unknowingly transformed ethics into an instrument of control. As Foucault reveals in Discipline and Punish, morality evolved into invisible chains disciplining the body, while the Dalit “purity rules” of the Indian caste system carried this alienation to absurd extremes.
+For example, agrarian civilizations cast this contract into fetters of hierarchy with bronze ploughshares. When the Code of Hammurabi inscribed “an eye for an eye” onto clay tablets, when Confucian ritual ethics elevated “restraining one’s desires and returning to propriety” into a moral imperative, humans unknowingly transformed ethics into an instrument of control. As Foucault reveals in *Discipline and Punish*, morality evolved into invisible chains disciplining the body, while the Dalit “purity rules” of the Indian caste system carried this alienation to absurd extremes.
 
 Yet if we return to the origin of ethics, its core concerns remain unchanged:
 
@@ -51,13 +51,13 @@ Yet if we return to the origin of ethics, its core concerns remain unchanged:
 
 In labor-dominated societies, these questions were framed under “productivity first,” with answers such as: “Work hard, obey order, follow rules.” However, once labor is no longer necessary for survival, these answers fundamentally shift—
 
-We exist not because we are useful, but because we are loved.
+We exist not because we are useful, but because we are loved and connected.
 
 Thus, to restore ethics to its true source, only love—that which brings positive emotional experience and civilized behavior—can be humanity’s genuine core ethic.
 
 In short: Love is each individual’s wisdom of self-management in emotion and behavior, humanity’s social management wisdom, and the core ethic of human civilization.
 
-## 1.2 Hate and Barbarism
+## 1.2 Hatred and Barbarism
 
 According to Wikipedia, hatred is an intense negative emotional response toward certain people, things, or ideas, often associated with opposition or aversion. Hatred is frequently linked with strong anger, contempt, and disgust, and is sometimes regarded as the opposite of love.
 
@@ -75,17 +75,11 @@ Thus, barbarism is the opposite of civilization.
 
 ## 1.3 Civilization
 
-The word civilization is often used in two distinct contexts. Narrowly, it describes a particular culture, including the characteristics, lifestyle, and norms of a specific people or nation. This is the framework behind phrases like “Indian civilization” or “Western civilization,” constructed for purposes of horizontal and vertical comparison.
+The word "civilization" is often used in two distinct contexts. Narrowly, it describes a particular culture, including the characteristics, lifestyle, and norms of a specific people or nation. This is the framework behind phrases like “Indian civilization” or “Western civilization,” constructed for purposes of horizontal and vertical comparison.
 
 Civilization is also frequently contrasted with barbarism. In this context, the focus shifts to behavior (including speech, action, and systems of social governance).
 
-We may further examine the meaning of “civilization” through language. In Chinese, the word “文明” (wenming) carries a dual semantic weight:
-
-As a factual concept, it refers to the material achievements, technological advances, institutional evolution, and intellectual creations accumulated in human history.
-
-As a value-laden concept, it describes ethical behavioral standards such as politeness, rationality, and non-violence.
-
-In English, these two meanings are expressed through distinct words: civilization emphasizes macro-level historical and technological development, while civility emphasizes norms of individual conduct. Both, however, share the Latin root cīvīlis, meaning “public, political,” which also extends to “polite, moral.” This suggests that “civilization” has always been a composite concept blending history, technology, ethics, and politics.
+We may further examine the meaning of “civilization” through language. In Chinese, the word “文明” (Wenming) carries a dual semantic weight: As a factual concept, it refers to the material achievements, technological advances, institutional evolution, and intellectual creations accumulated in human history. As a value-laden concept, it describes ethical behavioral standards such as politeness, rationality, and non-violence. In English, these two meanings are expressed through distinct words: civilization emphasizes macro-level historical and technological development, while civility emphasizes norms of individual conduct. Both, however, share the Latin root cīvīlis, meaning “public, political,” which also extends to “polite, moral.”119 This suggests that “civilization” has always been a composite concept blending history, technology, ethics, and politics.
 
 Our exploration of civilization thus encompasses both cultural identity and behavior. From the perspective of behavior, civilization refers to standards such as politeness, rationality, and non-violence. Whether driven by emotion or wisdom, the underlying force of such behavior is love. Indeed, the very driving force behind civilized behavior—including governance systems—is love.
 
@@ -95,7 +89,7 @@ Yet reality is sobering: human history to this day remains mired in oppression, 
 
 ## 1.4 Proof of Love and the Affluent Love Civilization
 
-Civilization and barbarism are like two entangled quantum spin states! This means that a civilized person, civilized behavior, or a civilized society not only avoids the violence, bloodshed, and cruelty of barbarism, but also moves in the opposite direction—being driven by love, and expressing love through actions that generate positive emotional experiences and beneficial effects for oneself and others: life, dignity, freedom, ecology, or spirit.
+Civilization and barbarism are like two entangled quantum spin states. This means that a civilized person, civilized behavior, or a civilized society not only avoids the violence, bloodshed, and cruelty of barbarism, but also moves in the opposite direction—being driven by love, and expressing love through actions that generate positive emotional experiences and beneficial effects for oneself and others: life, dignity, freedom, ecology, or spirit.
 
 A truly civilized individual is one whose heart is filled with love and whose behavior embodies love. Yet since inner experiences are invisible to others, we often simplify this into the equation: “words and deeds infused with love” = “civilized conduct.”
 
