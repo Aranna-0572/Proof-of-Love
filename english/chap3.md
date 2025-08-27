@@ -221,3 +221,280 @@ That SDO can reinforce prejudice even in egalitarian contexts demonstrates that 
 This reveals a profound causal mechanism: dominance-oriented individuals not only thrive under systems of inequality but also actively resist and distort egalitarian efforts. When confronted with conditions that challenge hierarchical preferences, they may respond with heightened prejudice and hatred, perceiving inclusionary measures as existential threats to their status. This illustrates how domination perpetuates “primordial barbarism,” converting positive social progress into triggers for conflict and hostility.
 
 Table 1. Typology of Mechanisms by Which Power Induces Hatred
+| Mechanism of Hate Generation            | Type of Power Involved               | Impact on Target Group/Individual            | Manifestations of Hate                         |
+| --------------------------------------- | ------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| **Systematic Humiliation**              | State Power                          | Devaluation, instillation of inferiority     | Violence, discrimination, social exclusion     |
+| **Ideological Control**                 | Cultural / Ideological Power         | Alienation, rationalization of harm          | Prejudice, conflict mobilization               |
+| **Economic Exploitation**               | Economic Power                       | Powerlessness, commodification, alienation   | Resentment, class conflict                     |
+| **Group Division / Competition**        | Social Power                         | Reduced empathy, schadenfreude               | Prejudice, social exclusion                    |
+| **Emotional Blackmail**                 | Familial Power                       | Guilt, dependency, role entrapment           | Manipulation, emotional isolation              |
+| **Media Manipulation / Propaganda**     | Technological / Informational Power  | Stereotyping, group antagonism               | Prejudice, hate speech                         |
+| **Legal Discrimination**                | Legal / Institutional Power          | Rights deprivation, marginalization          | Discriminatory laws, abuse of public authority |
+| **International Sanctions / Isolation** | Power of International Organizations | Collective suffering, externalized hostility | Xenophobia, nationalist mobilization           |
+
+## 3.4 The Deprivation and Instrumentalization of Love and Human Relationships
+### 3.4.1 The Impact of Unequal Power Dynamics on Interpersonal Bonds and Empathy
+
+Power and control dynamics significantly shape interpersonal relationships, influencing interactions and well-being. In imbalanced relationships, the dominant partner may find it difficult to generate empathy, shifting focus from understanding the partner’s perspective to maintaining control. This can result in emotional manipulation, gaslighting, verbal abuse, financial control, isolation, threats, and micromanagement.
+
+Empathy is foundational to the development and maintenance of human relationships. While empathy usually fosters social affinity and warmth, it may be undermined if it interferes with competition or is exploited to understand more powerful others for status gains.
+
+High relational power can lead individuals to believe they lose less if the relationship dissolves. Studies show that those perceiving themselves as holding higher power in relationships are more prone to attraction to alternatives outside the relationship, engaging in fantasies or romantic interactions with substitute partners. This phenomenon is mediated by an increased perception of one’s own “mate value.”
+
+Thus, when high-power partners perceive themselves as more attractive and at lower risk of loss, they are more likely to disengage from existing commitments and seek alternatives. This creates systematic “love deprivation” for lower-power partners, whose emotional needs and fundamental commitments are undermined by power imbalance. Domination—even in intimate settings—therefore manifests as a relational form of barbarism.
+
+### 3.4.2 Buber’s “I-It” Relationship: Objectification and Instrumental Treatment of Others
+
+Martin Buber’s I and Thou distinguishes two fundamental relational modes: “I-It” and “I-You.”
+
+The “I-It” relation is based on alienation, where the other is treated as an object or instrument for utility. Here, the “I” emerges as a self-conscious subject of experience and use.
+
+By contrast, the “I-You” relation entails openness, ethical engagement, and recognition of the other’s intrinsic worth, characterized by dialogue and full presence.
+
+Rick Bellingham interprets “I-It” as “aggressive power abuse,” in which one person views another as an object to be exploited, linking it with predatory behaviors.
+
+Buber’s concept of the “I-It” relation provides a philosophical articulation of human instrumentalization inherent in power structures. It is a precursor to aggressive power abuse that denies the dignity and subjectivity of others. The shift from recognizing others as “You” to treating them as “It” constitutes a fundamental dehumanization, paving the way for exploitation and abuse. This dynamic reveals how instrumentalization is not only an outcome of power but also a core mechanism of barbarism in human relationships, corroding the very foundation of human connection.
+
+### 3.4.3 Romantic Love as a Biological Drive and the Consequences of Misunderstanding/Repression
+
+One study argues that Romantic Love is a primary biological drive, akin to hunger or thirst, rather than an emotion. This widespread misunderstanding, entrenched by science and society, has severe consequences.
+
+Sexual control is regarded as a major source and expression of power in many species, including humans. Religion and society have historically exploited institutionalized marriage to manufacture a “false and coerced state of love,” enforcing exclusivity in unions driven primarily by sexual interest, while punishing deviations.
+
+The repression and distortion of romantic love as a biological drive—through sexual control and institutionalized marriage—results in “love deprivation syndromes” and severe outcomes such as relationship breakdown, divorce, suicide, and femicide. This demonstrates how domination actively corrupts a core human need, transforming a life-affirming force into a source of profound suffering and violence.
+
+### 3.4.4 Authoritarian Structures (e.g., Parenting Styles) and Their Impact on Emotional Well-being and Genuine Connection
+
+Authoritarian parenting, characterized by high demands and low emotional warmth, is linked to adverse outcomes in children’s emotional and psychological development. Children raised in such environments show lower psychological well-being, poorer emotion regulation, and greater reliance on suppression strategies rather than reappraisal.
+
+Emotional suppression carries social costs: reduced social support, diminished intimacy, and lower satisfaction in relationships. It disrupts emotional communication and undermines authenticity.
+
+Adolescents with authoritarian tendencies show weaker cognitive abilities and emotional intelligence. Individuals with lower intelligence may be more drawn to authoritarianism due to a preference for simplistic solutions. Authoritarian parenting often cultivates authoritarian traits in children.
+
+This causal chain demonstrates that domination—even within the family—actively undermines authentic emotional expression and connection, perpetuating intergenerational deprivation of love. Authoritarian structures erode the capacity for genuine relationships, embedding a subtle but widespread form of barbarism at the most fundamental social unit.
+
+### 3.4.5 Necropolitics: The Ultimate Instrumentalization of Human Life by States
+
+Achille Mbembe’s concept of necropolitics refers to state power exercised through the regulation and manipulation of death—determining whose lives are disposable and whose are protected. It is the “power of death over life.”
+
+This excludes marginalized groups from power, rendering them targets for elimination. Human bodies are instrumentalized: either used for state purposes or discarded as worthless in pursuit of “higher national goals.”
+
+The concept of bare life (homo sacer) describes those outside the political community who may be killed without consequence, excluded from legal protection.
+
+Necropolitics represents the ultimate form of human instrumentalization, where dominant power structures not only control but actively determine the expendability of populations. It is barbarism in its most extreme form, denying the sanctity and dignity of human life. The Holocaust stands as a paradigmatic case, though history is replete with similar atrocities.
+
+## 3.5 Domination as an Obstacle to Civilizational Development
+Material-Centric Civilizational Critique: Neglect of Morality and Justice
+
+Prevailing (Western) notions of civilization, Eurocentric in orientation, emphasize institutions, economics, democracy, and technological progress, while neglecting morality, ethics, and justice.
+
+A nation may achieve high levels of material advancement yet act with cruelty and oppression—through deceit, exploitation, injustice domestically, or imperialist aggression abroad. Such a society may conduct wars of conquest, plunder, and destruction reminiscent of barbaric tribes.
+
+This critique reveals that material progress divorced from ethics perpetuates cycles of uncivilized and destructive behavior. Darwinian-inspired Western worldviews, described as animalistic, racist, and bellicose, cannot serve as the model for human civilization.
+
+How Power Structures Hinder Human Flourishing and Ethical Progress
+
+Domination and existing social structures obstruct self-acceptance by stigmatizing and marginalizing those who deviate from enforced norms. They impose barriers to autonomy and agency, preventing individuals from acting according to their circumstances.
+
+They foster moral blind spots (failure to perceive moral aspects of situations) and ethical fading (self-deceptive rationalization that intentions are good). They enforce “adaptive preferences,” where individuals adjust desires downward to limited circumstances, blocking the pursuit of higher goals.
+
+Thus, domination subtly internalizes oppression, conditioning individuals to accept constraints and overlook ethical issues. This prevents critical reflection and collective action, undermining the moral evolution necessary for civilizational progress.
+
+Social Control Mechanisms
+
+- Bread and Circuses:
+Originating from Juvenal, this refers to appeasing the populace with food and entertainment to divert attention from deeper social problems. In modern contexts, it manifests through consumerism, shallow incentives, and mass distraction, linked to the “dominant ideology” ensuring disadvantaged classes accept their fate.
+
+- Consumerism:
+As Zygmunt Bauman argues, under “liquid modernity,” consumption has become an obligation, not a choice. Freedom and happiness are equated with consumption. Those unable to fully participate become “defective consumers,” excluded from social life. This commodification of control diverts energy from ethical and civilizational development, locking individuals into cycles of acquisition rather than collective flourishing.
+
+- Digital Distraction:
+Social media platforms, designed for engagement, amplify misinformation, consume cognitive resources, and suppress critical thinking. As modern “bread and circuses,” they create systemic distraction, weakening democratic deliberation and blocking civilizational progress.
+
+The Role of Military, Police, and Technological Power in Preserving the Status Quo
+
+- Military-Industrial Complex (MIC):
+The entanglement of military and defense industries creates vested interests that institutionalize conflict and divert resources from civilizational progress, a highly organized form of barbarism.
+
+- Police Militarization:
+Law enforcement adoption of military-grade equipment and tactics fosters intimidation, erodes trust, and disproportionately targets marginalized groups. This domestic application of force undermines social cohesion and reveals internalized barbarism.
+
+- Big Tech and Information Power:
+Tech giants monopolize infrastructure, data, and generative AI, redefining communication, commerce, and policy-making. As “gatekeepers of knowledge,” they centralize power, distort narratives, and threaten democratic processes, obstructing rational collective decision-making essential for civilizational advancement.
+
+- Bureaucracy:
+Max Weber’s “iron cage” critique remains relevant: bureaucratic systems prioritize efficiency and calculability at the expense of freedom and meaning. As Habermas argues, technocratic administration replaces deliberation, producing “communicative poverty” and alienation, suppressing democratic vitality.
+
+- Authoritarianism:
+Authoritarian regimes consolidate unilateral control, suppress bottom-up initiatives, and encourage preference falsification. By replacing trust and collaboration with fear and coercion, authoritarianism systematically undermines social cohesion, obstructing the collaborative development essential for civilization.
+
+Table 2. Power Structures and Their Obstruction of Civilizational Development
+| Power Structure / System           | Obstructive Mechanism                        | Impact on Civilizational Progress                                 |
+| ---------------------------------- | -------------------------------------------- | ----------------------------------------------------------------- |
+| **Material-Centered Civilization** | Neglect of morality/justice                  | Perpetuation of uncivilized behavior                              |
+| **“Bread and Circuses”**           | Superficial appeasement                      | Deflection from substantive issues                                |
+| **Consumerism**                    | Hijacking of desire                          | Reinforcement of hierarchical structures                          |
+| **Digital Distraction**            | Cognitive overload / misinformation          | Undermining of informed citizenship                               |
+| **Military-Industrial Complex**    | Institutionalization of conflict             | Resource diversion / perpetuation of war                          |
+| **Police Militarization**          | Internal coercion / erosion of trust         | Breakdown of social cohesion                                      |
+| **Bureaucracy**                    | Dehumanization / suppression of deliberation | Impairment of democratic functions                                |
+| **Authoritarianism**               | Suppression of bottom-up initiatives         | Obstruction of collective action; repression of individual growth |
+
+
+## 3.6 The Many Ways Domination Corrupts Love
+
+History shows that through the ten “languages of love” we summarized earlier, domination employs various methods of destruction: pollution, distortion, deprivation, counterfeiting, and outright annihilation.
+
+### 3.6.1 Words of Affirmation — The Magic of Language
+
+Example: During the height of the Great Terror (1937–1938), the Soviet regime distributed rewards as lavishly as punishments. Internal NKVD reports indicate that more than 1,200 officers received the Order of the Red Banner for “loyal service,” often directly tied to their participation in mass arrests and executions.
+
+Surface: Public commendation of “loyal party members” or soldiers, praised as “the most lovable people.”
+
+Substance: These rewards were directly linked to mass arrests and killings, where “praise” masked fear, encouraging denunciations and betrayals. Commendation became the spark for purges, destroying comradeship and trust.
+
+Analysis: Words of affirmation were twisted into tools of betrayal and barbarity, revealing domination’s methods of pollution and counterfeit love.
+
+### 3.6.2 Quality Time — The Warmth of Shared Moments
+
+Example: Nazi Germany’s “Youth Camps.”
+
+Surface: Hitler Youth organized outdoor activities, camps, and training that appeared to promote collective spirit.
+
+Substance: Amidst shared “joyful times,” hatred was implanted. Racist indoctrination was disguised as “unity and belonging,” with boys being taught to despise outsiders.
+
+Analysis: Shared time was distorted into an instrument of indoctrination, demonstrating domination’s method of twisting warmth into hatred.
+
+### 3.6.3 Receiving Gifts — The Heart of Reciprocity
+
+Example: The Samsung–Park Geun-hye corruption scandal (2016–2017). Samsung’s leader, Lee Jae-yong, provided KRW 43 billion (~USD 36.4 million) to Choi Soon-sil’s foundations, along with horses and financial support for her daughter’s equestrian career. The case led to Park Geun-hye’s impeachment, a 20-year prison sentence, and fines.
+
+Surface: In Korean culture, gift-giving symbolizes respect, gratitude, or personal ties.
+
+Substance: In reality, the gifts were bribes for government support of corporate mergers. Though convicted, Lee Jae-yong was pardoned early, and Samsung’s operations were largely unaffected.
+
+Analysis: The love-language of gifting was corrupted into a tool of systemic corruption and domination.
+
+### 3.6.4 Acts of Service — The Love of Selfless Giving
+
+Example: The Khmer Rouge’s “Mass Labor” campaigns (1975–1979).
+
+Surface: Everyone contributing to an egalitarian society through steel-making and irrigation.
+
+Substance: Millions perished from starvation and exhaustion. Service was wholly alienated into a machine of dehumanization.
+
+Analysis: Service, instead of love, became sheer destruction—labor turned into extermination.
+
+### 3.6.5 Physical Touch — The Elevation of Bodily Contact
+
+Example: Romania’s Decree 770 (1960s), banning abortion and enforcing pro-natalist policy.
+
+Surface: Families were required to have four or more children, with orphans raised by the state.
+
+Substance: Orphanages were severely under-resourced, with one caregiver for 40 infants. The lack of physical contact led to underdeveloped hippocampi, cognitive deficits, self-harm, epilepsy, and mortality rates as high as 153‰ in some institutions.
+
+Analysis: The deprivation of touch demonstrates how domination mutilates the most basic channel of love.
+
+### 3.6.6 Self-Love — Embracing One’s Own Value
+
+Example: The Nazi regime’s gradual stripping of Jewish selfhood. From the Nuremberg Laws onward, Jews were denied citizenship, barred from professions, schools, hospitals, and forced into ghettos and camps.
+
+Self-love, the foundation of loving others, was systematically destroyed. Jews were forced to accept identities of inferiority and unworthiness, eroding their ability to love themselves.
+
+Victor Frankl noted that prisoners’ spiritual survival depended on hope; once hope was lost, defeat was inevitable. Yet, the deeper truth is that the regime’s primary tool was to annihilate self-love itself, breaking people from within.
+
+### 3.6.7 Empathy — The Spirit of Agape
+
+Example: British colonial “civilizing mission.”
+
+Surface: Bringing Christianity and education, claiming empathy for “backward natives.”
+
+Substance: In reality, this masked dispossession of land and culture, a genocidal assimilation cloaked as benevolence.
+
+Analysis: Hatred disguised as empathy; extermination through counterfeit love.
+
+### 3.6.8 Romantic Love — The Highest Experience of Body and Spirit
+
+Example: As of the 2020s, ~20 countries and 16 U.S. states (plus Puerto Rico) still criminalize adultery.
+
+Surface: Upholding morality or religious norms.
+
+Substance: Such laws suppress the freedom of romantic expression, often targeting women, even punishing rape victims if they cannot “prove” innocence.
+
+Analysis: Romantic love is subordinated to state and religious control, stripped of privacy and autonomy.
+
+### 3.6.9 Love of Resonant Carriers — Shared Expression of Emotion
+
+Example: Nazi persecution of homosexuals under Section 175.
+
+Mechanisms:
+
+Legal violence: arrests, imprisonment, exclusion.
+
+Propaganda: media portraying homosexuals as “degenerates.”
+
+Social exclusion: public denunciation campaigns.
+
+Impact: Denied the right to express love publicly, forced underground, lives endangered. Carriers of resonance (texts, media, schools) became tools of destruction rather than connection.
+
+### 3.6.10 Cross-Species Empathy — Love Extending to All Life
+
+Example: Nazi “animal protection laws.”
+
+Surface: Strict animal welfare legislation.
+
+Substance: While protecting animals, the regime exterminated Jews and Roma. Hatred was masked as “love for pure life,” while ecological destruction from war was ignored.
+
+### 3.6.11 Cosmic Love — Humanity’s Bond with the Stars
+
+Example: The U.S.–Soviet Space Race during the Cold War.
+
+Surface: Framed as humanity’s shared aspiration for the cosmos.
+
+Substance: In reality, a competition of military technologies, polluting cosmic love with nationalism and arms race logic.
+
+Summary: These cases show how rulers corrupt the languages of love—polluting, disguising, or reversing them—turning humanity’s deepest bonds into instruments of fear, hatred, and extermination.
+
+## 3.7 The Alienation of “Love” by Rulers and the Politics of Fear
+
+Rulers, though human and needing love, often sacrifice genuine love for power. They adopt predatory strategies:
+
+### 3.7.1 “Affluence Motivation” in Scarcity Eras: Leaders who amassed resources gained survival and legitimacy.
+
+### 3.7.2 “Predatory Strategies and Reproductive Advantage”: Polygamy, concubinage, monopolization of partners—short-term reproductive gain, long-term social destabilization.
+
+### 3.7.3 Emotional Predation and Self-Alienation: Rulers manufacture chains of fear and dependence, mistaking submission for loyalty, while losing their own capacity for self-love.
+
+Core Insight: Barbaric acts primarily aim to generate fear and intimidation:
+
+- Suppressing resistance
+
+- Isolating victims
+
+- Dividing alliances
+
+- Gaining control
+
+Domination’s central function is exchanging fear for obedience. Only by recognizing this can we counter it with the courage of a love-rich civilization, transforming fear into solidarity, support, and truth.
+
+## 3.8 Indifference to the Privilege of Domination and the State of Civilization
+
+Domination emerged historically as a mechanism for cooperation, resource management, and social security. Yet its maintenance has always relied on violence driven by hate—not love.
+
+Our analysis demonstrates: domination is the root of hatred and primitive barbarism. From Marx’s critique of systemic exploitation, to Foucault’s normalization of obedient subjects, to the necropolitics of expendable lives—power actively produces the conditions for hatred and dehumanization.
+
+But unlike the flourishing of natural sciences, the critical study of domination (Hobbes, Marx, etc.) has stagnated. Modern society normalizes skyscrapers like the Burj Khalifa, forgetting that they—like the Pyramids—symbolize domination and inequality. Many today insist that barbarism is only an exception, or that “civilization” is relative.
+
+Yet data from the Global Peace Index 2025 shows otherwise:
+
+Global peace at its lowest since records began.
+
+59 active state-based conflicts, the most since WWII.
+
+152,000 conflict-related deaths in 2024.
+
+17 countries with >1,000 deaths, the highest since 1999.
+
+Violence cost USD 19.97 trillion in 2024 (11.6% of global GDP).
+
+Conclusion: Humanity is at a crossroads. AI development will liberate humans from the prison of labor, offering a pivotal opportunity for new governance systems. Recognizing domination as the root of hatred and barbarism is the first step toward designing a civilization of affluent love.
