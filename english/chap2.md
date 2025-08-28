@@ -61,11 +61,17 @@ Among young generations in China, expressions have emerged such as “light-year
 
 - Film, Television, and Visual Media: Audiovisual mediums serve as the grand compendium of modern language. Dialogue, narration, subtitles, and the unfolding of plot transform love on screen into moments that extend into real life. The late-night conversations in Before Sunrise or the echo of “How are you?” in Love Letter are quintessential moments where language and imagery jointly craft the classics of love.
 
-- Social media declarations (#relationshipgoals, #LoveWins) amplify love’s expression into a global resonance.
+- Internet and Social Media: Weibo, Twitter, Instagram, WeChat Moments, short-video platforms… people use confession posts, anniversary captions, and couple vlogs to transform language into a way of recording and showcasing love. Various hashtags (such as #relationshipgoals and #LoveWins) further amplify the expression of love into network resonance, fostering a globalized bond of shared emotions.
 
-Thus, sociologists generally agree that love is a socially constructed entity: its forms, expectations, and functions evolve through social contexts and interpersonal learning. Importantly, love is also a powerful social force with public character—it drives community building, fosters solidarity, and confers meaning to life. Evolutionarily, love enabled early humans to forge enduring social bonds, protect one another, and form communities necessary for survival.
+The iterative evolution of language enables us to express “love” across different cultures and media in richer, more precise, and more personal ways, making the resonance between hearts easier to transmit and perceive.
 
-Cataldi and Iorio define social love as an action or interaction where one “goes beyond” expectation, offering more than required without expecting return. This “excess” of love can be seen in:
+Beyond language, examples of this are virtually inexhaustible.
+
+Thus, sociologists generally regard love as a socially constructed entity, meaning that its meaning, forms of expression, and social functions evolve over time and are learned through processes of social interaction.¹ By examining the historical relationship between the emotional experience of love and loving behaviors, we know that the association between positive feelings and loving actions is not innate; rather, individuals gradually become familiar with and learn how to “love correctly” in different social contexts (such as family, friendships, and romantic relationships).² This learning process is deeply influenced by environment and personal experience, especially through the role of social models like parents.¹
+
+Beyond individual experience, love is also understood as a powerful social force with a public dimension—capable of sparking change and activating processes of community-building and solidarity in contemporary societies.³ It connects individuals, encourages them to protect one another, and endows life with meaning.⁴ Love played a crucial role in early human evolution, serving as a powerful driver that led early humans to form lasting social bonds, protect each other, and establish communities to ensure survival.⁴
+
+Cataldi and Iorio define “Social Love” as an action or social interaction in which the subject “goes beyond” what is expected—giving more than is required to bring about benefits, without expecting anything in return.³ This “excessive” form of love manifests in the following dimensions:
 
 - Care: attending to the well-being of others, especially the vulnerable.
 
@@ -75,9 +81,11 @@ Cataldi and Iorio define social love as an action or interaction where one “go
 
 - Concreteness: requiring proximity and practical enactment, not just sentiment.
 
-Institutional love refers to love embedded within institutional practices—for example, systematic patient care in hospitals. Unlike individual caregiving, it functions through organizational structures.
+The concept of “Institutional Love” refers to love being embedded within institutional policies and practices, providing care in a systematic way (for example, hospital staff systematically understanding and meeting patients’ needs, rather than relying solely on individual acts of care).⁶ This differs from individual caregiving, as it fulfills patients’ needs through institutionalized understanding.⁶
 
-If love is a social construction, its forms are shaped by society; if love is also a social force, then society bears responsibility for cultivating “good” forms of love. Social and institutional love demonstrate that love is not merely private but a public good, essential for collective well-being and species survival. Conversely, an “unhealthy society” may constrain love’s expression, reducing it to selfish or destructive forms—often, in effect, forms of hate. Thus, fostering love as “civilized behavior” requires not only individual effort but also social intervention and supportive institutions—especially in a civilization poised for transformation alongside AI breakthroughs.
+If love is a social construct, then its forms and expectations are inevitably shaped by society. At the same time, if love is also a powerful social force, then society itself bears responsibility for cultivating “good” forms of love. The notions of Social Love and Institutional Love suggest that love is not merely a private matter but a public good, essential to collective well-being and the survival of the species.⁴ This implies that social structures and cultural norms play a decisive role in either fostering or obstructing beneficial expressions of love. An “unhealthy society”² may restrict the possibilities of love’s expression, causing it to manifest more often in selfish, non-loving forms (which, in practice, are often forms of hatred).
+
+Therefore, cultivating “good ways of acting” through love requires not only individual effort but also societal-level interventions and the establishment of supportive institutions. This is all the more true for human civilization as it undergoes transformation alongside the breakthroughs brought about by AI.
 
 ## 2.2 Biological and Neurochemical Foundations of Love
 
@@ -85,31 +93,31 @@ This section examines the scientific basis of love, uncovering its deep biologic
 
 ### 2.2.1 Hormonal Influences and Brain Activity
 
-Many biochemists regard love as a biological process in which positive social interactions trigger cognitive and physiological responses, generating pleasurable or beneficial emotional and neurological states. This dynamic sustains sensory and cognitive activation, prompting individuals to seek love, respond positively to interactions with loved ones, and react negatively to their absence.
+Many biochemists regard love as a biological process in which positive social interactions trigger cognitive and physiological responses, generating pleasurable or beneficial emotional and neurological states.<sup>7</sup> This dynamic sustains sensory and cognitive activation, prompting individuals to seek love, respond positively to interactions with loved ones, and react negatively to their absence.<sup>7</sup>
 
 Key hormones and brain regions underpin this foundation:
 
-- Oxytocin (“love hormone”): Released during intimacy (hugs, handholding, meaningful conversation), fostering trust and bonding while lowering cortisol (the stress hormone). Even mutual gazes between dogs and owners elevate oxytocin.
+- Oxytocin (“love hormone”): Released during intimacy (hugs, handholding, meaningful conversation), fostering trust and bonding while lowering cortisol (the stress hormone). Even mutual gazes between dogs and owners elevate oxytocin.<sup>8</sup>
 
-- Serotonin (“mood stabilizer”): Elevated in love, promoting calmness, satisfaction, and emotional regulation. Early-stage romantic love, however, can lower serotonin, correlating with anxiety or obsessive tendencies.
+- Serotonin (“the mood stabilizer”): During romantic love, serotonin levels may increase, promoting calmness, contentment, and emotional regulation, and helping to reduce anxiety and sadness.⁹ However, some studies suggest that in the early stages of romantic love, serotonin levels actually decrease—a pattern also common in patients with anxiety and obsessive-compulsive disorder—hinting at the obsessive component of passionate love.⁸
 
-- Dopamine (“pleasure hormone”): Released in reward centers, linked to motivation and euphoria. Seeing a partner’s photo activates the dopamine system, akin to responses for hunger or thirst.
+- Dopamine (“the pleasure hormone”): Released in the brain’s reward centers, dopamine is associated with motivation and pleasure, contributing to the euphoria and sense of purpose generated in love.⁸ When viewing photographs of a romantic partner, the dopamine system becomes activated, resembling the brain’s response when satisfying basic needs such as hunger or thirst.⁸
 
-- Endorphins (“natural painkillers”): Reduce discomfort and elevate mood, explaining the soothing effect of being with loved ones.
+- Endorphins (“the natural painkillers”): Endorphins can alleviate physical discomfort and elevate mood, which explains why being with a loved one brings both physical and emotional comfort.⁹
 
-- Adrenaline: Heightens exhilaration and goal-directed drive.
+- Adrenaline: Heightens exhilaration and goal-directed drive.<sup>8</sup>
 
 Brain regions associated with love include:
 
-- Ventral tegmental area (VTA) and caudate nucleus: Reward centers that “light up” when thinking of a loved one—active even in long-term marriages.
+- Ventral Tegmental Area (VTA) and Caudate Nucleus: These midbrain regions are part of the brain’s reward system, and they “light up” when thinking about a loved one, linking love with motivation and reward.⁸ This activation persists even in long-term marriages.⁸
 
-- Amygdala: Dampened activity during intimacy in stable relationships, reducing fear and stress.
+- Amygdala: In stable, long-term relationships, activity in the amygdala decreases during intimate interactions, thereby reducing fear and stress responses.⁹
 
-- Hippocampus and prefrontal cortex: Enhanced blood flow when discussing loved ones.
+- Hippocampus and prefrontal cortex: As part of the reward circuitry, blood flow to these regions increases when speaking about a loved one.⁸
 
-- Angular gyrus and mirror neuron system: Activated in long-term love, linked to complex language and predicting a partner’s behavior.
+- Angular gyrus and mirror neuron system: Activated in long-term love, these regions are associated with complex language functions and predicting a partner’s behavior.⁸
 
-The sustained activation of reward pathways and the release of bonding hormones highlight that love is not merely socially constructed but deeply embedded in human neurobiology. Evolutionarily, love is a biological necessity for well-being, reproduction, cooperation, and familial attachment. Neurochemical mechanisms explain why love brings pleasure and serves as a powerful motivator for connection and prosocial behavior.
+The sustained activation of reward pathways (VTA, dopamine) and the release of stress-reducing hormones (oxytocin, serotonin) in the presence of a loved one—even within long-term relationships—strongly suggest that love is not merely a social construct, but is deeply rooted in human neurobiology. From an evolutionary perspective (the drive for healthy development, the desire for reproduction, the facilitation of cooperation, and the attachment that sustains family bonding),⁷ this aligns with the view that love is a “biological necessity” for well-being and survival.⁸ This biological foundation explains why love produces pleasure and why it serves as a powerful driver of bonding and prosocial behavior. Neurochemical responses provide a concrete mechanism through which “love as a positive and enriching emotional experience” is realized, reinforcing “constructive behavioral patterns” by making such behaviors intrinsically rewarding while alleviating stress. This emphasizes that our capacity to love others is an evolutionary outcome, essential for species survival through cooperation and connection.⁴
 
 ## 2.3 Love as a Positive Emotional Experience: Psychological Impacts
 
