@@ -183,7 +183,7 @@ Such myths reveal that power structures not only impose disadvantage but normali
 
 False consciousness describes how dominant institutions disseminate “counterfactual but normative assumptions and rituals” that make exploitation less visible or more palatable. Epistemic ideology refers to flawed cultural systems of understanding that empower elites.
 
-The causal chain is clear: dominant groups create and propagate these myths/ideologies, which then solidify into “common sense.” This ideological manipulation constitutes a profound form of “primordial barbarism,” because it undermines critical thought and collective resistance, perpetuating oppression without overt coercion.
+The causation is clear: dominant groups create and propagate these myths/ideologies, which then solidify into “common sense.” This ideological manipulation constitutes a profound form of “primordial barbarism,” because it undermines critical thought and collective resistance, perpetuating oppression without overt coercion.
 
 ## 3.3 The Origins of Hatred in Power Structures
 ### 3.3.1 Mechanisms by Which Power Imbalances Breed Hostility and Conflict
@@ -261,7 +261,7 @@ One study argues that Romantic Love is a primary biological drive, akin to hunge
 
 Sexual control is regarded as a major source and expression of power in many species, including humans. Religion and society have historically exploited institutionalized marriage to manufacture a “false and coerced state of love,” enforcing exclusivity in unions driven primarily by sexual interest, while punishing deviations.
 
-The repression and distortion of romantic love as a biological drive—through sexual control and institutionalized marriage—results in “love deprivation syndromes” and severe outcomes such as relationship breakdown, divorce, suicide, and femicide. This demonstrates how domination actively corrupts a core human need, transforming a life-affirming force into a source of profound suffering and violence.
+Romantic love is a biological drive rather than an emotion<sup>48<sup/>, and society’s misunderstanding/suppression of it—typically through sexual control and institutionalized marriage as structures of power—has led to “love deprivation syndrome,” as well as severe consequences such as suicide and femicide<sup>48<sup/>. This demonstrates that domination actively distorts a fundamental human need, transforming the source of connection into a source of profound suffering and even death. This represents a deep form of barbarism. Sexual control is “a primary source and expression of power in many animal species, including humans”<sup>48<sup/>. Religion and society have “historically employed institutionalized marriage to fabricate a ‘false, coerced state of love’”<sup>48<sup/>. The consequences have been explicitly identified as “serious outcomes, including relationship breakdown, divorce, suicide, and wife-killing”<sup>48<sup/>. The causal chain is clear: Domination (through sexual/marital control) → misunderstanding/suppression of a fundamental human drive (love) → systemic “love deprivation syndrome” and profound suffering/death. This shows how domination can corrode the biological and social foundations of human connection, converting a life-affirming force into a source of acute suffering and violence. Such a profound distortion of core human needs constitutes a paradigmatic example of “primitive barbarism.”
 
 ### 3.4.4 Authoritarian Structures (e.g., Parenting Styles) and Their Impact on Emotional Well-being and Genuine Connection
 
