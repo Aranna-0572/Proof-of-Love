@@ -564,22 +564,28 @@ Only by recognizing the primary function of barbaric acts—to exchange fear for
 
 ## 3.8 Indifference to the Privilege of Domination and the State of Civilization
 
-Domination emerged historically as a mechanism for cooperation, resource management, and social security. Yet its maintenance has always relied on violence driven by hate—not love.
+In sum, the emergence of rulers was essentially an evolutionary response of human societies to solve problems of large-scale cooperation, manage resource conflicts, ensure collective security, and govern complex social structures. It arose from the interplay of multiple factors: the demand for efficiency, security pressures, competition over resources, processes of social differentiation, psychological predispositions, and ideological constructions.
 
-Our analysis demonstrates: domination is the root of hatred and primitive barbarism. From Marx’s critique of systemic exploitation, to Foucault’s normalization of obedient subjects, to the necropolitics of expendable lives—power actively produces the conditions for hatred and dehumanization.
+Yet the means by which rulers preserve their rule has consistently been barbaric violence, and the root of such violence lies in hatred rather than love.
 
-But unlike the flourishing of natural sciences, the critical study of domination (Hobbes, Marx, etc.) has stagnated. Modern society normalizes skyscrapers like the Burj Khalifa, forgetting that they—like the Pyramids—symbolize domination and inequality. Many today insist that barbarism is only an exception, or that “civilization” is relative.
+Through a multi-dimensional analysis of power structures, we argue that domination is the root of hatred and primordial barbarity. From the systemic exploitation and alienation embedded in economic systems (Marx), to the subtle normalization enforced through legitimizing myths and the production of docile subjects (Foucault), to ideological control, power actively creates the conditions under which hatred flourishes and human beings are instrumentalized. In intimate relations, domination erodes empathy and commitment; on the social level, it manifests as necropolitics, where life itself becomes disposable. Moreover, a material-centered conception of civilization—coupled with mechanisms such as bread and circuses, consumerism, digital distractions, and militarized state apparatuses—actively obstructs genuine human flourishing and ethical progress, perpetuating cycles of conflict and control.
 
-Yet data from the Global Peace Index 2025 shows otherwise:
+Overcoming this pervasive barbarity requires a fundamental reorientation of domination as a principle of social organization. This demands a critical recognition that power operates not only through overt violence, but also through subtle psychological, cultural, and technological mechanisms that shape desires, cognition, and relationships.
 
-Global peace at its lowest since records began.
+Yet from the twentieth century into the twenty-first, inquiries as profound as those of Thomas Hobbes and Karl Marx into the mechanisms of social domination have not flourished with the vigor of the natural sciences. The essence of domination has become increasingly overlooked. When people first encountered the Great Pyramid of Giza—one of the Seven Wonders of the Ancient World—they understood it not only as a symbol of Egyptian civilization but also as an emblem of the vast gulf between ruling elites and ordinary lives. In contrast, in the twenty-first century, with more than 3,000 buildings now exceeding 200 meters—among them the Makkah Royal Clock Tower Hotel, Shanghai Tower, Merdeka 118, and the Burj Khalifa soaring to 828 meters—such spectacles have become normalized. Our research finds that some even regard modern society as wholly civilized, seeing barbarity as mere exceptions; others emphasize cultural relativism, claiming there is no absolute distinction between barbarity and civilization, only diverse cultural practices.
 
-59 active state-based conflicts, the most since WWII.
+This indicates the urgent need for new methods of deconstructing and reconstructing human society, if we are to achieve breakthroughs in shared cognitive understanding.
 
-152,000 conflict-related deaths in 2024.
+Most importantly, the ruling configurations of over 200 nations and regions worldwide have driven the forces of barbarity to their extreme. In the twentieth century alone, they produced two devastating world wars. And in the twenty-first century, the Institute for Economics and Peace (IEP) reports in its 2025 Global Peace Index (GPI) that:
 
-17 countries with >1,000 deaths, the highest since 1999.
+- Global peace at its lowest since records began.
 
-Violence cost USD 19.97 trillion in 2024 (11.6% of global GDP).
+- 59 active state-based conflicts, the most since WWII.
+
+- 152,000 conflict-related deaths in 2024.
+
+- 17 countries with >1,000 deaths, the highest since 1999.
+
+- Violence cost USD 19.97 trillion in 2024 (11.6% of global GDP).
 
 Conclusion: Humanity is at a crossroads. AI development will liberate humans from the prison of labor, offering a pivotal opportunity for new governance systems. Recognizing domination as the root of hatred and barbarism is the first step toward designing a civilization of affluent love.
